@@ -1,0 +1,3 @@
+[submodule "RealTimeObjectDetection"]
+	path = RealTimeObjectDetection
+	url = https://github.com/Dimple626/Real_Time_Object_Detection.git
